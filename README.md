@@ -1,10 +1,6 @@
 ﻿# MyReads Project
 
-your job will be to add interactivity to the app by refactoring the static code in this template.
-
-## TL;DR
-
-To get started developing right away:
+To get started right away:
 
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
